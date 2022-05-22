@@ -76,6 +76,7 @@ async function registerCommands(url) {
   }
   return response;
 }
-
-await registerGlobalCommands();
-// await registerGuildCommands();
+// commented out registerGlobalCommands
+// so i don't have to wait an hour for testing.
+// await registerGlobalCommands();
+await registerGuildCommands();
