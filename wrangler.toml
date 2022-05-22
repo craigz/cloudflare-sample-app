@@ -1,9 +1,9 @@
-name = "awwbot"
+name = "workerbot"
 main = "./src/server.js"
 type = "javascript"
-compatibility_date="2022-02-26"
+compatibility_date="2022-05-22"
 
-account_id = "c21e5aacc2d33c52c2b6589adbe56dc0"
+account_id = "692590628999135293"
 workers_dev = true
 
 [[rules]]
